@@ -1,0 +1,6 @@
+SKM_0.csv
+  - Historical Weekly average prices (spot and futures 0y/1y/2y/3y)
+  - Start: week 1, 2005
+  - End: week 49, 2018 
+  - Headers:  year_no,week_no,year_week,spot,future_0y,future_1y,future_2y,future_3y
+  - Source: http://www.skm.se/priceinfo/history/
