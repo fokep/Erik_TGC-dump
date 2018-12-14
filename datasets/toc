@@ -13,3 +13,11 @@ SKM_0.csv
   - Headers:  year_no,week_no,year_week,spot,future_0y,future_1y,future_2y,future_3y
   - Source: http://www.skm.se/priceinfo/history/
   - Notes: Copy of SKM_0.csv but with blank fields for NULL
+  
+  SKM_Fagiani-Hakvoort.csv
+  - Historical Weekly average prices (spot and futures 0y/1y/2y/3y)
+  - Start: week 1, 2007
+  - End: week 13, 2013 
+  - Headers:  year_no,week_no,year_week,spot,future_0y,future_1y,future_2y,future_3y
+  - Source: http://www.skm.se/priceinfo/history/
+  - Notes: For the Fagiani and Hakvoort paper (link here)
